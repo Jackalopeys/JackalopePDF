@@ -112,7 +112,7 @@ class Program
 ## 🧪 Example Output
 
 Want to see what it looks like?
-👉 [Click here to view the sample PDF with watermark](.JackalopeReport.pdf)
+👉 [Click here to view the sample PDF with watermark](JackalopeReport.pdf)
 
 ---
 
