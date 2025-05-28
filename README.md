@@ -111,7 +111,8 @@ class Program
 
 ## 🧪 Example Output
 
-> You may include screenshots of generated PDF reports (e.g. invoices, tables with page breaks, summary rows).
+Want to see what it looks like?
+👉 [Click here to view the sample PDF with watermark](.JackalopeReport.pdf)
 
 ---
 
