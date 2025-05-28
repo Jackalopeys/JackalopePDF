@@ -1,0 +1,14 @@
+JackalopePDF License Agreement
+
+This software is proprietary and is not distributed under an open-source license.
+All rights are reserved by the author.
+
+You may
+- Use the DLL in personal or commercial projects after purchasing a license
+- Distribute generated PDFs from the DLL
+
+You may not
+- Distribute, repackage, decompile, or reverse engineer the DLL
+- Use the demo version in production without purchasing a license
+
+To obtain a license, visit httpsjackalopestuff.gumroad.comljackalopepdf
