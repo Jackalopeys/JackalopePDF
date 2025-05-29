@@ -12,6 +12,18 @@
 
 ---
 
+Works with
+* Console Apps (.NET 6+)
+* Web APIs (ASP.NET Core)
+* Background Services / Workers
+* Azure Functions & AWS Lambda
+* Linux / Windows / Docker Runtime
+* No UI, No Designer, No Browser required
+
+Built with pure .NET and PdfSharp, no external dependencies
+
+---
+
 ## 🚀 Quick Start
 
 ```csharp
