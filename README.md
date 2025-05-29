@@ -139,6 +139,9 @@ Want to see what it looks like?
 
 * **Does it support Excel export?**
   → Not currently. Excel rendering is not supported in this version.
+  
+*  **Spotted a typo?**
+  → You want it fixed? Fork it.     →  You want it clean? Fund it.  
 
 ---
 
