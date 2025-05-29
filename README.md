@@ -12,7 +12,8 @@
 
 ---
 
-Works with
+## Works with
+
 * Console Apps (.NET 6+)
 * Web APIs (ASP.NET Core)
 * Background Services / Workers
