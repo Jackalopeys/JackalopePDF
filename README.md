@@ -154,7 +154,7 @@ To unlock the full version (no watermark):
 ✅ No DRM  
 ✅ Instant download
 
-👉 Purchase now at: [https://jackalopestuff.gumroad.com/l/jackalopepdf](https://jackalopeys.gumroad.com/l/jackalopePDF)
+👉 Purchase now at: [https://jackalopeys.gumroad.com/l/jackalopepdf](https://jackalopeys.gumroad.com/l/jackalopePDF)
 
 #ExportPDF แบบโคตรง่าย
 #ExportPDF Very Easy
