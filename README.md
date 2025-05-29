@@ -163,7 +163,7 @@ Contact the developer for licensing inquiries or enterprise use.
 All exported PDFs will contain a small, elegant watermark.
 
 To unlock the full version (no watermark):
-🎯 **One-time purchase: $29**
+🎯 **One-time purchase: **
 
 ✅ Commercial use allowed  
 ✅ Lifetime access  
